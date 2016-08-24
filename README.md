@@ -43,7 +43,7 @@ Author for the loader CSS :
 The Loader animation est based on :
 https://github.com/lukehaas/css-loaders
 
-Loader based on the work of fpmweb (modalLoading)
+This loader is based on the work of fpmweb (modalLoading)
 https://github.com/fpmweb/modalLoading
 
 
