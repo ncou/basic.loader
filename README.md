@@ -38,7 +38,7 @@ hide modal
 
 The hide() function will remove the injected div.
 
-Author for the loader CSS :
+Greets :
 =========
 The Loader animation est based on :
 https://github.com/lukehaas/css-loaders
