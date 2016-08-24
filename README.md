@@ -17,7 +17,7 @@ Manual installation
 Installation is very simple. You only have to insert the JS library.
 
 ```js
-<script type="text/javascript"src="modalLoading.js"></script>
+<script type="text/javascript"src="basicLoader.js"></script>
 ```
 
 Use
