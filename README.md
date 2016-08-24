@@ -1,7 +1,8 @@
-modalLoading
+basicLoader
 =========
 
-modalLoading.js is a lightweight JavaScript that allows you to include any project loading screen modal.
+basicLoader.js is a lightweight JavaScript that allows you to include any project loading screen modal.
+It's based on the "modalLoading".
 
 Demo
 =========
@@ -40,6 +41,9 @@ Author for the loader CSS :
 =========
 The Loader animation est based on :
 https://github.com/lukehaas/css-loaders
+
+Loader based on the work of fpmweb (modalLoading)
+https://github.com/fpmweb/modalLoading
 
 
 
