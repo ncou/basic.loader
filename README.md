@@ -23,7 +23,7 @@ Installation is very simple. You only have to insert the JS library.
 Use
 =========
 
-Only one call to the class with true / false parameter.
+Only one call to the class for the 2 public methods.
 
 show modal
 
