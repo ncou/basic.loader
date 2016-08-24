@@ -2,7 +2,8 @@ basicLoader
 =========
 
 basicLoader.js is a lightweight JavaScript that allows you to include any project loading screen modal.
-It's based on the "modalLoading".
+
+It's based on the work of "modalLoading".
 
 Demo
 =========
