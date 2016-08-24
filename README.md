@@ -40,7 +40,7 @@ The hide() function will remove the injected div.
 
 Greets :
 =========
-The Loader animation est based on :
+The Loader CSS animation est based on :
 https://github.com/lukehaas/css-loaders
 
 This loader is based on the work of fpmweb (modalLoading)
